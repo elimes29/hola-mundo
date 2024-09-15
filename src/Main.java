@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Película: Matrix");
 
         int fechaDeLanzamiento = 1999;
-        boolean IncuidoEnElPlan = true;
+        boolean incuidoEnElPlan = true;
         double notaDeLaPelicula = 8.2;
 
         double media = (8.2+6.0+9.3)/3;
